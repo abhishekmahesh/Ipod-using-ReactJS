@@ -12,10 +12,10 @@
     position: relative;
     border-radius: 25px;
     transform: scale(1);
-    background-color: #f9fcff;
+    background-color: whitesmoke;
     background-image: linear-gradient(147deg, #f9fcff 0%, #dee4ea 74%);
     box-shadow: inset 0px 0px 20px rgba(43, 43, 43, 0.61), 2px 2px 2px rgba(255, 255, 255, 0.712); 
-    /*background: linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #b4b4b4); */
+    
 }
 
 .Display {
